@@ -38,7 +38,7 @@ HTML:
 </body>
 </html>
 
-JavaScript:
+JavaScript(script.js):
 
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
@@ -167,7 +167,7 @@ deleteButton.addEventListener('click', button => {
   calculator.updateDisplay()
 })
 
-CSS:
+CSS(style.css):
 
 *, *::before, *::after {
   box-sizing: border-box;
